@@ -60,7 +60,7 @@ missing_summary = consolidated_df.isnull().sum()
 print("Missing Values Summary:")
 print(missing_summary)
 
-# Example handling of missing values
+ handling of missing values
 # Drop rows where 'CustomerID' is missing
 consolidated_df = consolidated_df.dropna(subset=['CustomerID'])
 
