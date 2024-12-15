@@ -1,0 +1,41 @@
+usage_id,CustomerID,feature_used,usage_date,usage_amount
+1,8,Watch Movie,7/4/2024,32.04
+2,9,Watch Movie,12/11/2023,76.66
+3,35,Watch Movie,1/24/2024,47.97
+4,2,Watch Movie,8/2/2024,30.94
+5,39,Watch Movie,2/8/2024,27.9
+6,35,Rate Content,8/1/2024,50.43
+7,18,Watch Movie,9/1/2024,72.83
+8,22,Stream Series,9/3/2024,29.38
+9,22,Watch Movie,10/5/2024,44.19
+10,23,Stream Series,1/17/2024,33.81
+11,3,Rate Content,2/21/2024,21.23
+12,25,Watch Movie,2/13/2024,36.39
+13,40,Stream Series,1/31/2024,27.31
+14,5,Watch Movie,12/19/2023,30.51
+15,19,Watch Movie,7/25/2024,87.98
+16,25,Stream Series,4/3/2024,67.21
+17,24,Download Episode,5/16/2024,41.97
+18,18,Watch Movie,1/15/2024,67.15
+19,35,Download Episode,8/30/2024,51.6
+20,18,Search,8/1/2024,71.62
+21,4,Download Episode,11/5/2024,82.45
+22,26,Stream Series,10/19/2024,28.99
+23,37,Stream Series,8/5/2024,68.99
+24,26,Rate Content,9/9/2024,33.84
+25,16,Search,2/20/2024,33.65
+26,38,Rate Content,1/28/2024,45.95
+27,15,Download Episode,3/6/2024,54.42
+28,4,Watch Movie,9/4/2024,66.47
+29,28,Search,10/20/2024,44.63
+30,39,Rate Content,2/25/2024,32.63
+31,36,Watch Movie,12/9/2023,74.86
+32,35,Stream Series,12/29/2023,40.62
+33,19,Rate Content,9/2/2024,50.84
+34,17,Search,8/22/2024,55.69
+35,7,Stream Series,12/30/2023,55.69
+36,13,Download Episode,5/14/2024,78.63
+37,35,Search,11/21/2024,63.91
+38,32,Watch Movie,9/25/2024,93.62
+39,20,Download Episode,10/23/2024,31.68
+40,37,Watch Movie,10/9/2024,75.87
